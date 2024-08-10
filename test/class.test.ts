@@ -18,5 +18,5 @@ describe('Class', () => {
     it('should create a new customer by constructor', () => {
         new Customer();
         new Customer();
-    })
+    });
 });
